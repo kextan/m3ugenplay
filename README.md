@@ -1,4 +1,4 @@
-# m3ugenplay ![githubbanner](githubbanner.png)
+# ![githubbanner](githubbanner.png)
 converts folders of songs to m3u file for ps3, psp, psvita
 
 # how does it work
