@@ -68,6 +68,51 @@ no fanfare. no confetti. just a `.m3u` file that probably works.
 just download the `.exe` from [releases](#) and double-click it poopy
 
 ### if you're a nerd™:
-```bash
+go to the folder you put the code in
 pip install pyinstaller
 pyinstaller --noconsole --onefile --icon=icon.ico m3ugenplay.py
+
+---
+
+## 🎮 how to force your playlist onto ancient consoles:
+
+### 🕹 psp (aka mp3 walkman with buttons)
+
+1. plug in your fossil (aka the psp) via usb or shove the memory stick into a reader like it's 2005  
+2. navigate to:  
+
+/MUSIC
+
+3. slap that `.m3u` file right there with the rest of your *songs*  
+4. unplug with confidence. go to *music* on the XMB. if it shows up, congrats. if not, cry.
+
+> ✨ tip: the psp likes `.m3u`, but it’s picky. keep paths simple. if your song has a name like `Linkin Park - In The End.mp3`, just rename it to `a.mp3` or something. you’re welcome.
+
+---
+
+### 🧊 ps3 (aka the warmest console ever built)
+
+1. put the `.m3u` and your music files on a flash drive (formatted FAT32 because sony is allergic to progress)  
+2. structure should look like:
+
+/PS3/MUSIC/your files here
+
+3. plug the usb into ps3  
+4. open the music section → triangle button → *Display All*  
+5. now scroll past 900 options till you find your playlist  
+6. enjoy while your ps3 fan screams like it’s launching a space shuttle
+
+---
+
+### 🔮 psvita (aka the handheld that deserved better)
+
+1. install content manager on your poopy pc
+2. plug in dat vita and go to the music app
+3. go to your computer and find the m3u file you have
+4. put it in your music folder on your user dir
+5. on vita, music app opened right? go to the first button with your computer name
+6. click it and go to playlists
+7. click the 3 dots and click copy
+8. start it idk what u want me to do
+
+(its the end of the read me)
