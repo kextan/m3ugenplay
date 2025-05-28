@@ -42,15 +42,13 @@ you do you.
 you know the one — it says "create your dummy playlist".  
 click it. then don’t touch anything. it might be doing something. or not.
 
-![screenshot4](screenshots/clickcreate.png)
-
 ---
 
 ### step 5: celebrate. or don’t.  
 congrats. your playlist is now in that same folder.  
 no fanfare. no confetti. just a `.m3u` file that probably works.
 
-![screenshot5](screenshots/output.png)
+![screenshot4](screenshots/clickcreate.png)
 
 ---
 
