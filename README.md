@@ -63,7 +63,7 @@ no fanfare. no confetti. just a `.m3u` file that probably works.
 ## ⚙️ how to run it (the not-funny part)
 
 ### if you hate python:
-just download the `.exe` from [releases](#) and double-click it poopy
+just download the `.exe` from [releases](https://github.com/kextan/m3ugenplay/releases/latest) and double-click it poopy
 
 ### if you're a nerd™:
 go to the folder you put the code in
