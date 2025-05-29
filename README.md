@@ -105,7 +105,10 @@ pyinstaller --noconsole --onefile --icon=icon.ico m3ugenplay.py
 ### 🔮 psvita (aka the handheld that deserved better)
 
 ok how to get it to read to vita
+
 open file explorer on your windows computer
+
+then go to where the m3u file generated
 
 ![transfersc1](screenshots/fetransfer.png)
 
