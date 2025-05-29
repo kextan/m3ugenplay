@@ -104,6 +104,13 @@ pyinstaller --noconsole --onefile --icon=icon.ico m3ugenplay.py
 
 ### 🔮 psvita (aka the handheld that deserved better)
 
+ok how to get it to read to vita
+open file explorer on your windows computer
+
+![transfersc1](screenshots/fetransfer.png)
+
+transfer it to the folder i have circled
+
 1. install content manager on your poopy pc
 2. plug in dat vita and go to the music app
 3. go to your computer and find the m3u file you have
